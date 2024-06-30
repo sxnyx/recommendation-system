@@ -61,6 +61,6 @@ streamlit run app.py
 pip install streamlit 
 ```
 
-## 🚀 Thanks
+## Thanks
 
 Thanks for looking into the project and being here. Feel free to share your reviews/suggestions/remarks! :) 
