@@ -2,13 +2,9 @@
 
 A movie recommender system is a system that seeks to predict or filter preferences according to the user's choices. The created Web-App using Python is a similar system, which suggests movies based on the user's liked movies.
 
-The model has been trained using a dataset of 5,000 movies! Find the dataset [here 🔗](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
+The model has been trained using a dataset of 5,000 movies. Find the dataset [here 🔗](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 
 Download the similarity model file (pkl) from [here 🔗](https://drive.google.com/file/d/1aF6TthiM_ZpVjcWAnbXg7OJAl0oAkXs1/view?usp=sharing)
-
-Check out the demo of the application on Youtube [here 🔗](https://youtu.be/z4QQQ2U3NxU)
-
-Use the application live [here 🔗](https://huggingface.co/spaces/SagarBapodara/Movie-Recommendation-App)
 
 ## Tech Used 
 
@@ -65,20 +61,6 @@ streamlit run app.py
 pip install streamlit 
 ```
 
-## Working Demo 
-
-The demo working of this web app can be found [here 🔗](https://youtu.be/z4QQQ2U3NxU) | Do like it, if you watch it :) 
-
 ## 🚀 Thanks
 
 Thanks for looking into the project and being here. Feel free to share your reviews/suggestions/remarks! :) 
-
-**If you found it useful, leave a ⭐ here!**
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-Ending Credits 
-- Made using Python and Streamlit
-- @Author : [Sagar Bapodara](https://www.linkedin.com/in/sagar-bapodara/)
